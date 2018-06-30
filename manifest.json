@@ -3,30 +3,20 @@
 
 	"name": "Material Deep Black Theme",
 	"description": "A theme that adds a black colour scheme to Chrome.",
-	"version": "2.0.0",
-
+	"version": "3.0.0",
 	"theme": {
 		"images": {
-			"theme_frame": "images/black.png",
-			"theme_frame_inactive": "images/black.png",
-			"theme_frame_incognito": "images/black.png",
-			"theme_frame_incognito_inactive": "images/black.png",
-			"theme_ntp_background": "images/black.png",
-			"theme_toolbar": "images/black.png",
-			"theme_tab_background": "images/black.png",
-			"theme_tab_background_incognito": "images/black.png",
-			"theme_tab_background_v": "images/black.png"
+			"theme_ntp_background": "images/black.png"
 		},
 		"colors": {
 			"bookmark_text": [255, 255, 255],
-			"frame": [0, 0, 0],
-			"frame_inactive": [0, 0, 0],
-			"frame_incognito": [0, 0, 0],
-			"frame_incognito_inactive": [0, 0, 0],
+			"frame": [45, 45, 45],
+			"frame_inactive": [45, 45, 45],
+			"frame_incognito": [45, 45, 45],
+			"frame_incognito_inactive": [45, 45, 45],
 			"ntp_background": [0, 0, 0],
 			"ntp_text": [255, 255, 255],
 			"toolbar": [0, 0, 0],
-			"tab_background_text": [110, 110, 110],
 			"tab_text": [255, 255, 255]
 		},
 		"tints": {
@@ -38,7 +28,8 @@
 			"background_tab": [0, 0, 0]
 		},
 		"properties": {
-			"ntp_logo_alternate": 1
+			"ntp_logo_alternate": 1,
+			"ntp_background_repeat": "repeat"
 		}
 	}
 }
