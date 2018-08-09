@@ -3,19 +3,11 @@
 
 	"name": "Material Deep Black Theme",
 	"description": "A theme that adds a black colour scheme to Chrome.",
-	"version": "2.0.0",
+	"version": "2.1.0",
 
 	"theme": {
 		"images": {
-			"theme_frame": "images/black.png",
-			"theme_frame_inactive": "images/black.png",
-			"theme_frame_incognito": "images/black.png",
-			"theme_frame_incognito_inactive": "images/black.png",
-			"theme_ntp_background": "images/black.png",
-			"theme_toolbar": "images/black.png",
-			"theme_tab_background": "images/black.png",
-			"theme_tab_background_incognito": "images/black.png",
-			"theme_tab_background_v": "images/black.png"
+			"theme_ntp_background": "images/black.png"
 		},
 		"colors": {
 			"bookmark_text": [255, 255, 255],
@@ -30,12 +22,7 @@
 			"tab_text": [150, 150, 150]
 		},
 		"tints": {
-			"buttons": [0, 0, 1],
-			"frame": [0, 0, 0],
-			"frame_inactive": [0, 0, 0],
-			"frame_incognito": [0, 0, 0],
-			"frame_incognito_inactive": [0, 0, 0],
-			"background_tab": [0, 0, 0]
+			"buttons": [0, 0, 1]
 		},
 		"properties": {
 			"ntp_logo_alternate": 1
