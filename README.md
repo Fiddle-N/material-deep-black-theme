@@ -1,7 +1,5 @@
 # Material Deep Black Theme
 
-A theme that adds a black colour scheme to Chrome.
-
 In this theme, everything is black, white or grey. It's as simple as that.
 
 ### Installation
