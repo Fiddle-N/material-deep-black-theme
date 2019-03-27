@@ -3,11 +3,12 @@
 
 	"name": "Material Deep Black Theme",
 	"description": "A theme that adds a black colour scheme to Chrome.",
-	"version": "4.0.1",
+	"version": "4.0.2",
 
 	"theme": {
 		"images": {
-			"theme_ntp_background": "images/black.png"
+			"theme_ntp_background": "images/black.png",
+			"theme_toolbar": "images/black.png"
 		},
 		"colors": {
 			"bookmark_text": [255, 255, 255],
